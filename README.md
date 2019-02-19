@@ -11,3 +11,6 @@ Both of them use:
 - Criterion function is sum of squared error (SSE)
 
 The main difference is the optimization strategy for Optimizing the Gradient Descent, the first one uses the Momentum Strategy, and the second one uses Adam Strategy.
+
+Files:
+1. Momentum Neural Network: This file contains the implementation for the neural network with the Momentum Strategy. In the first sections is a configuration for a neural network trained by me, this section is commented, where weightsOut and biasOut are the weights of the Output Layer and weightsHid and biasHid are the weights of the Hidden Layer. I trained the network and obtained 
